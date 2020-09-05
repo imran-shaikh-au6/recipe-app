@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    background-color: rgba(0, 0,0, 0.5);
+    border-radius: 5%;
+}
+.text{
+    flex: 2;
+    color:white;
+}

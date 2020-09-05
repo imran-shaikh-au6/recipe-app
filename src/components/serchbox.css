@@ -1,0 +1,27 @@
+/* .searchBox{
+    height: 200px;
+    width: 100%;
+    background-color: lightgray;
+} */
+.back{
+    
+    width:100%;
+    height: 400px;
+}
+
+.imgs{
+    width: 100%;
+    height: 400px;
+}
+.gt {
+    position: absolute;
+    top: 150px;
+    padding-left: 450px;
+}
+@media only screen and (max-width: 600px) {
+  .gt {
+    position: absolute;
+    top: 150px;
+    padding-left: 20px;
+}
+}
